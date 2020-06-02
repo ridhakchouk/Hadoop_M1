@@ -1,0 +1,5 @@
+Projet Hadoop Big Data
+
+Ce projet exploite l'un des nombreux framework java existant. Il s'agit de Hadoop developpé par apache. Il s'agira d'exploiter une base de données NoSQL HBase ainsi que de comprendre le fonctionnement du système de fichier Hadoop. Afin d'exploiter les résultats, un service web Restful est configurer afin d'afficher les résultats dans un navigateur
+
+This project exploits one of the many existing java framework. It is Hadoop developed by apache. It will exploit a NoSQL HBase database as well as to understand how the Hadoop file system works. In order to exploit the results, a Restful web service is configured to display the results in a browser.
